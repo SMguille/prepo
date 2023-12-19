@@ -1,7 +1,3 @@
-ednv 
-if akjdn:
-    ChildProcessErrorlc
-    ckms
-else:
-    
-   
+
+
+print("2")
